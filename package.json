@@ -1,0 +1,23 @@
+{
+  "name": "use-url-query",
+  "version": "1.0.0",
+  "description": "A lightweight React hook for managing URL query parameters with ease, featuring state synchronization and default values.",
+  "main": "index.js",
+  "module": "index.js",
+  "keywords": [
+    "react",
+    "hook",
+    "search",
+    "query"
+  ],
+  "author": "Kamuran Kara",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karapy/use-url-query"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "next": "^14.0.0 || ^15.0.0 || ^15.1.1"
+  }
+}
